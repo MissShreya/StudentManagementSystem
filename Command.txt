@@ -4,4 +4,25 @@ dotnet build
 dotnet run
 
 for creating cs file 
-notepad Application.cs
+notepad Application
+
+
+
+Upload code on gothub using terminal command 
+
+Step 1: git init
+Step 2: git add.
+Step 3: git commit -m "Initial commit: Add student application code"
+Step 4: Create Repository On GitHub(Choose visibility (Public or Private) and click Create repository.)
+Step 5: Copy Repository URL Link and paste it on terminal (Visual Studio)
+Step 6: git branch -M main
+        git push -u origin main
+
+For Updating any changes on GitHub in your upload Project 
+
+Step 1: git add .(For whole project files update.)
+    OR 
+    If you want specific file change then run this command 
+        git add file1.cs 
+Step 2: git commit -m "Updated code: Description of changes"
+Step 3: git push origin main
