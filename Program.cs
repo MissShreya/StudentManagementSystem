@@ -25,5 +25,25 @@ defaultconstructor3.PrintDetail();
 Console.WriteLine("\n\n Parameterized Constructor Code: ");
 Student parameterizedConstructor = new Student("Shreyanshi Srivastava", 1, "A");
 parameterizedConstructor.PrintDetail();
+
+
+//Encapsulation Code
+Console.WriteLine("\n\n Encapsulation Code");
+Encapsulation encapsulationCode1=new Encapsulation();
+encapsulationCode1.Name="Shikhar Srivastava";
+encapsulationCode1.Rollnumber=12;
+encapsulationCode1.Grade="ABC";
+
+
+Encapsulation encapsulationCode2=new Encapsulation();
+encapsulationCode2.Name="Rambha Singh";
+encapsulationCode2.Rollnumber=13;
+encapsulationCode2.Grade="A";
+
+
+encapsulationCode1.PrintDetail();
+
+encapsulationCode2.PrintDetail();
+
     }
 } 
