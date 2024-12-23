@@ -1,0 +1,7 @@
+dotnet new console -n projectname
+cd projectname
+dotnet build
+dotnet run
+
+for creating cs file 
+notepad Application.cs

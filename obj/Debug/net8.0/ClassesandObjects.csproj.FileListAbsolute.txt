@@ -1,0 +1,14 @@
+D:\ConsoleApplication\StudentManagementSystem\ClassesandObjects\bin\Debug\net8.0\ClassesandObjects.exe
+D:\ConsoleApplication\StudentManagementSystem\ClassesandObjects\bin\Debug\net8.0\ClassesandObjects.deps.json
+D:\ConsoleApplication\StudentManagementSystem\ClassesandObjects\bin\Debug\net8.0\ClassesandObjects.runtimeconfig.json
+D:\ConsoleApplication\StudentManagementSystem\ClassesandObjects\bin\Debug\net8.0\ClassesandObjects.dll
+D:\ConsoleApplication\StudentManagementSystem\ClassesandObjects\bin\Debug\net8.0\ClassesandObjects.pdb
+D:\ConsoleApplication\StudentManagementSystem\ClassesandObjects\obj\Debug\net8.0\ClassesandObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApplication\StudentManagementSystem\ClassesandObjects\obj\Debug\net8.0\ClassesandObjects.AssemblyInfoInputs.cache
+D:\ConsoleApplication\StudentManagementSystem\ClassesandObjects\obj\Debug\net8.0\ClassesandObjects.AssemblyInfo.cs
+D:\ConsoleApplication\StudentManagementSystem\ClassesandObjects\obj\Debug\net8.0\ClassesandObjects.csproj.CoreCompileInputs.cache
+D:\ConsoleApplication\StudentManagementSystem\ClassesandObjects\obj\Debug\net8.0\ClassesandObjects.dll
+D:\ConsoleApplication\StudentManagementSystem\ClassesandObjects\obj\Debug\net8.0\refint\ClassesandObjects.dll
+D:\ConsoleApplication\StudentManagementSystem\ClassesandObjects\obj\Debug\net8.0\ClassesandObjects.pdb
+D:\ConsoleApplication\StudentManagementSystem\ClassesandObjects\obj\Debug\net8.0\ClassesandObjects.genruntimeconfig.cache
+D:\ConsoleApplication\StudentManagementSystem\ClassesandObjects\obj\Debug\net8.0\ref\ClassesandObjects.dll
