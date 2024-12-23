@@ -42,8 +42,16 @@ encapsulationCode2.Grade="A";
 
 
 encapsulationCode1.PrintDetail();
-
 encapsulationCode2.PrintDetail();
+
+  // Creating objects of Student and Teacher
+        Students student1 = new Students("John Doe", 20);
+        Teacher teacher1 = new Teacher("Mrs. Smith", 35, "Mathematics");
+
+        // Displaying their information
+        student1.DisplayDetail();  // Output: Student: John Doe, Age: 20
+        teacher1.DisplayDetail(); 
+
 
     }
 } 
