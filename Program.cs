@@ -48,10 +48,19 @@ encapsulationCode2.PrintDetail();
         Students student1 = new Students("John Doe", 20);
         Teacher teacher1 = new Teacher("Mrs. Smith", 35, "Mathematics");
 
-        // Displaying their information
-        student1.DisplayDetail();  // Output: Student: John Doe, Age: 20
+        student1.DisplayDetail(); 
         teacher1.DisplayDetail(); 
 
+//Creating objects for Polymorphism code
+Console.WriteLine("\n\n Polymorphism Concept using code");
 
+Person1 person1=new Person1{Name="ABC"};
+Student1 stusdent1=new Student1{Name="Shreyanshi",Age =1,Grade ="ABCD"};
+
+Teacher1 teacdher1=new Teacher1{Name="Karunesh Kumar",Subject="Hindi"};
+
+person1.PrintDetail();
+stusdent1.PrintDetail();
+teacdher1.PrintDetail();
     }
 } 
