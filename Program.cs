@@ -62,5 +62,23 @@ Teacher1 teacdher1=new Teacher1{Name="Karunesh Kumar",Subject="Hindi"};
 person1.PrintDetail();
 stusdent1.PrintDetail();
 teacdher1.PrintDetail();
+
+//Abstraction Code
+Console.WriteLine("Abstraction Code");
+StudentAbs studentabs= new StudentAbs{Name="Shreyanshi Sri",Age=22,Grade="A"};
+TeacherAbs teacherabs= new TeacherAbs{Name="Shreyanshi Sri",Age=22,Subject="Programming"};
+studentabs.PrintDetail();
+teacherabs.PrintDetail();
+
+//Interface Code
+Console.WriteLine("Interface Code");
+StudentIns studentins= new StudentIns("Shreyanshi Sri",22,"A");
+TeacherIns teacherins= new TeacherIns("Shreyanshi Sri",22,"Programming");
+studentins.PrintDetailIns();
+studentins.MarkAttendance();
+teacherins.PrintDetailIns();
+teacherins.MarkAttendance();
+
+
     }
 } 
